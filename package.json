@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "dependencies": {
-    "papaparse": "^5.1.1",
+    "papaparse": "^5.2.0",
     "rethinkdb": "^2.4.2",
     "watt": "^3.3.0"
   },
