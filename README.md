@@ -18,12 +18,12 @@ return yield cursor.toArray(next);
 
 ## Script scope/context
 
-| reference |                             |
-| --------- | :-------------------------: |
-| con       | rethinkdb connection object |
-| r         |  rethinkdb r query object   |
-| dir       |  function like console.dir  |
-| next      |  callback for async calls   |
+| reference |                              |
+| --------- | :--------------------------: |
+| con       |  rethinkdb connection object |
+| r         |  rethinkdb r query object    |
+| dir       |  function like console.dir   |
+| next      |  callback for async calls    |
 
 ## Limitations
 
