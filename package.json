@@ -1,7 +1,7 @@
 {
   "name": "querx",
   "version": "1.0.0",
-  "description": "",
+  "description": "rethinkdb scripted query runner",
   "main": "lib/main.js",
   "dependencies": {
     "papaparse": "^5.3.0",
@@ -13,6 +13,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": [
+    "rethinkdb",
+    "query",
+    "csv",
+    "cli"
+  ],
+  "author": "Samuel Loup",
   "license": "ISC"
 }
