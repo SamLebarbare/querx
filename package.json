@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "rethinkdb scripted query runner",
   "main": "lib/main.js",
+  "bin": {
+    "querx": "bin/querx"
+  },
   "dependencies": {
     "papaparse": "^5.3.0",
     "rethinkdb": "^2.4.2",
